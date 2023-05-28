@@ -2,20 +2,39 @@ header {
     font-family: Arial, Helvetica, sans-serif;
     color: #cba6f7;
     text-align: center;
-}
-
-.main {
-    padding: 5%;
-    line-height: 5;
-}
-
-.buttonclass {
-    display: block;
-    background-color: #cba6f7;
-    margin-bottom: auto;
+    margin-bottom: 30px;
+    padding-top: 75px;
+    font-size: xxx-large;
+    font-style: italic;
+    text-shadow: black 1px 5px 6px;
 }
 
 button {
-    display: block;
-    margin-bottom: 10px;
+    background-color: #cba6f7;
+    border: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 75px;
+    padding-left: 75px;
+    border-radius: 12px;
+    color: #1e1e2e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-style: italic;
+    box-shadow: black 1px 5px 6px;
+    text-shadow: #0000009d 1px 5px 4px
+    
+}
+
+html {
+    background-color: #1e1e2e;
+}
+
+footer {
+    padding-top: 297px;
+    text-align: center;
+    color: #cba6f7;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black 1px 2px 1px;
+    opacity: 10%;
 }
